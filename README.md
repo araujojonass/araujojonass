@@ -1,9 +1,9 @@
 ### Olá! Me chamo Jonas Araújo.
 
 
-- 🌱 Hoje estudo Full Stack
+- 🌱 Um eterno estudante Full Stack
 - 📫 Contate-me no email: jonasxv@gmail.com
-- 😄 Pronome: ele/dele
+
 
 
 <div align="center">
